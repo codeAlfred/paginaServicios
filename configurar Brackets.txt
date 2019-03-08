@@ -1,0 +1,36 @@
+//
+Custom work(pestañas - trabajando comodamente)
+---> desactivar la casilla: mover Toolbar to Slidebar
+indent Guides
+--->hay q activarlas en menu: ver->indent guides
+overscroll
+display shortcuts
+--->para ver en menu: Ayuda->mostrar funciones rapidas de teclado
+//temas -> ver->temas
+monokai dark Juice
+monokai dark soda
+crismon
+//
+emmet
+interactive Linter
+CanIUse
+php SmartHints
+
+//crear atajos con snippets
+brackets Snippets (by edc)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
